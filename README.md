@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived and receives no updates or security fixes.
+
 # Net::Http
 
 Net::HTTP provides a rich library which can be used to build HTTP
@@ -89,4 +91,3 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/ruby/net-http.
-
